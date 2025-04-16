@@ -1,9 +1,7 @@
 # 🖐️ Frontend developer welcomes you!
 
 My name is Maxim. Im a Juinior frontend developer
-<br>
 
-<br>
 👨‍💻 Working at https://tracker-all.vercel.app/
 <br>
 🏫 Start studying at since 2018
